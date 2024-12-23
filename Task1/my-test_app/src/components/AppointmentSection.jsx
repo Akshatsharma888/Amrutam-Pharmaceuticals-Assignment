@@ -31,7 +31,7 @@ const AppointmentSection = () => (
         <img src="/assets/Images/E.png" alt="" className="mt-10" />
       </div>
       <div className="flex items-center justify-center mt-10 mb-8">
-        <button className="px-4 py-2 text-sm md:text-base lg:text-lg font-bold bg-customGreen text-white rounded whitespace-nowrap w-full md:w-auto max-w-[250px] md:max-w-[300px] lg:max-w-[350px]">
+        <button className="px-4 py-2 text-sm md:text-base lg:text-lg font-bold bg-customGreen text-white rounded whitespace-nowrap w-full md:w-auto max-w-[250px] md:max-w-[300px] lg:max-w-[350px] hover:bg-green-600 ">
           Make An Appointment
         </button>
       </div>

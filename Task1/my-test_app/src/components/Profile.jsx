@@ -68,7 +68,7 @@ const Profile = () => {
               </div>
               {/* Appointment Button */}
               <div className="mt-4 md:mt-0">
-                <button className="px-4 py-2 text-sm md:text-base lg:text-lg font-bold bg-customGreen text-white rounded whitespace-nowrap w-full md:w-auto max-w-[250px] md:max-w-[300px] lg:max-w-[350px]">
+                <button className="px-4 py-2 text-sm md:text-base lg:text-lg font-bold bg-customGreen text-white rounded whitespace-nowrap w-full md:w-auto max-w-[250px] md:max-w-[300px] lg:max-w-[350px] hover:bg-green-600 ">
                   Book An Appointment
                 </button>
               </div>

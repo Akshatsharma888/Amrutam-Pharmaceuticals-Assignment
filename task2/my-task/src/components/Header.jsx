@@ -14,7 +14,7 @@ export const Header = () => {
       </div>
       <div className="flex items-center space-x-2 md:space-x-4">
         <button className="text-customGreen border text-[10px] md:text-base  lg:px-4  py-2 px-2 md:px-4 md:py-2 lg:text-lg border-gray-700  rounded-md ">Login</button>
-        <button className="text-[10px] md:text-base lg:text-lg text-white bg-customGreen border border-gray-700 py-2 px-2 md:px-4 md:py-2 lg:px-4 rounded-md">Sign Up</button>
+        <button className="text-[10px] md:text-base lg:text-lg text-white bg-customGreen border border-gray-700 py-2 px-2 md:px-4 md:py-2 lg:px-4 rounded-md hover:bg-green-600 ">Sign Up</button>
       </div>
     </div>
   </header>
