@@ -62,9 +62,5 @@ This project is part of the Amrutam Pharmaceuticals ReactJS Development internsh
 
 ---
 
-**Screenshots**  
-(Add a screenshot of your app as rendered, showcasing the design and animations).
-
----
 
 This added content ensures clear instructions for starting the application. Let me know if you'd like any further edits!
